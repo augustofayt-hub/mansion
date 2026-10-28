@@ -1,8 +1,8 @@
 // Navegación, entradas suaves, loops que se reproducen al verse, galería con visor y contacto.
 (() => {
-  // Datos de contacto: completar antes de usar el sitio.
-  const WHATSAPP = '';                 // ej.: '5215512345678' (código de país, sin + ni espacios)
-  const CORREO = 'contacto@ejemplo.com';
+  // Datos de contacto (código de país, sin + ni espacios)
+  const WHATSAPP = '5491156681359';
+  const CORREO = 'augustofayt@gmail.com';
 
   const nav = document.getElementById('nav');
   const onScroll = () => nav.classList.toggle('solid', scrollY > innerHeight * 0.6);

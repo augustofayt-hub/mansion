@@ -16,7 +16,7 @@ Sitio estático (HTML, CSS y JS, sin dependencias) con enfoque de inmobiliaria d
 
 ## Antes de usarlo
 
-En `main.js`, completar `WHATSAPP` y `CORREO`. Sin número de WhatsApp, el botón no se muestra.
+Los datos de contacto (`WHATSAPP` y `CORREO`) están en `main.js`. Sin número de WhatsApp, el botón no se muestra.
 
 ## Verlo local
 
